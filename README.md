@@ -1,3 +1,1 @@
-# 441Project-DistributedWebScraper
-
-Grab data from dogtime.com.
+# This is the read me
